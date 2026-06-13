@@ -1,7 +1,4 @@
 Pseudocode Program ESP32-CAM (Esp32-Camera-CS)
-Dokumen ini berisi pseudocode dan analisis alur kerja dari program ESP32-CAM yang Anda miliki (
-Esp32-Camera-CS.ino
-).
 
 1. Deklarasi Konstanta & Variabel Global
 text
