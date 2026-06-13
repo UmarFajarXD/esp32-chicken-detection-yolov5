@@ -1,7 +1,6 @@
 Pseudocode Program ESP32-CAM (Esp32-Camera-CS)
 
 1. Deklarasi Konstanta & Variabel Global
-text
 
 DEKLARASI KONSTANTA:
     DST_HEIGHT = 250                       // Tinggi gambar tujuan (250 piksel)
