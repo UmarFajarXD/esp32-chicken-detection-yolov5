@@ -1,6 +1,6 @@
-# Pseudocode untuk Esp32-S3-Object-Detection-CS.ino
+# Pseudocode untuk Esp32-S3
 
-Dokumen ini berisi representasi logika (pseudocode) dari program deteksi objek YOLOv5n pada ESP32-S3.
+pseudocode dari program deteksi objek YOLOv5n pada ESP32-S3.
 
 ## 1. Definisi Struktur Data & Konstanta
 ```text
