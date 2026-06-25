@@ -37,9 +37,9 @@ Proses:
                       chunk_data
                   };
 
-          ENDIF
+              ENDIF
 
-      ENDFOR
+          ENDFOR
 
 4. Simpan metadata model
       total_weight_files ← num_chunks
@@ -105,4 +105,4 @@ FOR i ← 0 TO num_chunks - 1 DO
          simpan_file_weights(i)
     ENDIF
 
-ENDFOR
+    ENDFOR
